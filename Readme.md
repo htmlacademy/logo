@@ -62,4 +62,4 @@ _:triangular_flag_on_post: Большие буквы, пробелы и поря
 
 --
 
-mail@htmlacademy.ru
+Любые вопросы можно задавать на почту mail@htmlacademy.ru
